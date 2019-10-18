@@ -11,7 +11,7 @@ public class DclSingleton {
 	/**
 	 * Current instance of the singleton.
 	 */
-	private static volatile DclSingleton instance;
+	private static DclSingleton instance;
 
 	/**
 	 * Private constructor to avoid instantiation.
